@@ -64,7 +64,7 @@ Git • GitHub • Jupyter Notebook • VS Code
 ### 🏎️ F1 Race Intelligence Platform
 AI-powered motorsport analytics platform that analyzes Formula 1 race telemetry, driver performance, and lap-time deltas using Python-based data science pipelines.
 
-![F1 Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=F1-Race-Intelligence&theme=tokyonight)
+![F1 Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=akashcodes23&repo=F1-Race-Intelligence&theme=tokyonight)
 
 ---
 
