@@ -67,6 +67,9 @@ AI-powered motorsport analytics platform that analyzes Formula 1 race telemetry,
 
 ![F1 Dashboard](https://raw.githubusercontent.com/akashcodes23/F1-Race-Intelligence/main/assets/dashboard.png)
 
+🔗 Repository  
+https://github.com/akashcodes23/F1-Race-Intelligence
+
 ---
 
 ## 🔬 Currently Building
