@@ -93,3 +93,9 @@ GitHub: https://github.com/akashcodes23
 ---
 
 ⭐ *Exploring data, building intelligent systems, and growing as an AI engineer.*
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/akashcodes23/akashcodes23/output/github-contribution-grid-snake-dark.svg">
+</p>
