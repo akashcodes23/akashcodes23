@@ -82,13 +82,9 @@ More projects coming soon as I continue building ML systems and AI tools.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashcodes23&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashcodes23&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight"/>
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight)
 
 ---
 
@@ -118,4 +114,4 @@ https://github.com/akashcodes23
 
 ---
 
-⭐ Exploring data, building intelligent systems, and growing as an AI engineer.
+Building intelligent systems using Machine Learning, Data Science, and AI to solve real-world problems.
