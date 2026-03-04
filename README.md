@@ -61,8 +61,7 @@ Git • GitHub • Jupyter Notebook • VS Code
 ## 🚧 Projects
 
 ### 🏎️ F1 Race Intelligence Dashboard
-Data-driven analysis and visualization of Formula 1 race performance using Python, Pandas and advanced data visualization.
-
+Data-driven analysis and visualization of Formula 1 race performance using Python, Pandas, and advanced data visualization techniques to extract race insights.
 ---
 
 ## 🔬 Currently Building
@@ -86,6 +85,7 @@ A collection of ML and data science projects solving real-world problems.
 ## 🌐 Connect With Me
 
 LinkedIn: [https://linkedin.com/in/akashgpatil  ](https://www.linkedin.com/in/akash-g-patil-9b55632a5 )
+
 GitHub: https://github.com/akashcodes23  
 
 ---
