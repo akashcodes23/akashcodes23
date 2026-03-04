@@ -69,8 +69,6 @@ A collection of ML and data science projects solving real-world problems.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
