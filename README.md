@@ -72,6 +72,7 @@ AI system for analyzing criminal networks using graph-based intelligence.
 📊 **Machine Learning Data Science Portfolio**  
 A collection of ML and data science projects solving real-world problems.
 
+More projects coming soon as I continue building ML systems and AI tools.
 ---
 
 ## 📈 GitHub Activity
