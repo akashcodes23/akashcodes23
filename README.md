@@ -62,12 +62,14 @@ Git • GitHub • Jupyter Notebook • VS Code
 
 ### 🏎️ F1 Race Intelligence Dashboard
 Data-driven analysis and visualization of Formula 1 race performance using Python, Pandas, and advanced data visualization techniques to extract race insights.
+
 ---
 
 ## 🔬 Currently Building
 
 🧠 **AI Crime Network Analysis**  
 AI system for analyzing criminal networks using graph-based intelligence.
+
 
 📊 **Machine Learning Data Science Portfolio**  
 A collection of ML and data science projects solving real-world problems.
@@ -94,7 +96,7 @@ GitHub: https://github.com/akashcodes23
 
 ⭐ *Exploring data, building intelligent systems, and growing as an AI engineer.*
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/akashcodes23/akashcodes23/output/github-contribution-grid-snake-dark.svg">
