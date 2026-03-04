@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=180&section=header&text=Akash%20Patil&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">Hi 👋 I'm Akash Patil</h2>
+<h2 align="center">Hi 👋 I'm Akash G Patil</h2>
 <h3 align="center">AI & Machine Learning Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
@@ -21,14 +21,14 @@ Building intelligent systems using Machine Learning, Data Science and Artificial
 🏫 JSS Academy of Technical Education, Bengaluru  
 
 💡 Passionate about solving real-world problems using data and AI.
-
+___
 🚀 Areas of Interest
 
 • Machine Learning  
 • Data Science  
 • Data Visualization  
 • AI-powered decision systems  
-
+___
 🎯 Goal: Become a **Machine Learning Engineer building impactful AI systems.**
 
 ---
