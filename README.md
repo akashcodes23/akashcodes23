@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
-Passionate about building intelligent systems using Machine Learning, Data Science and AI.
+Building intelligent systems using Machine Learning, Data Science and Artificial Intelligence.
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@ Passionate about building intelligent systems using Machine Learning, Data Scien
 🎓 AI & Machine Learning Undergraduate  
 🏫 JSS Academy of Technical Education, Bengaluru  
 
-💡 Interested in building real-world AI and Machine Learning systems.
+💡 Passionate about solving real-world problems using **data-driven AI systems**.
 
-🚀 Currently learning and building projects in:
+🚀 Currently exploring and building projects in:
 
 - Machine Learning  
 - Data Science  
 - Data Visualization  
-- AI-powered systems  
+- AI-powered intelligent systems  
 
 🎯 Goal: Become a **Machine Learning Engineer building impactful AI solutions.**
 
@@ -31,31 +31,37 @@ Passionate about building intelligent systems using Machine Learning, Data Scien
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Languages
 Python • SQL • C++
 
-**Data Science & Machine Learning**
-
+### Data Science & Machine Learning
 Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
 
-**Tools**
-
+### Tools
 Git • GitHub • Jupyter Notebook • VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning Engineering
+- Deep Learning
+- Model Deployment
+- AI System Design
 
 ---
 
 ## 🚧 Projects
 
 ### 🏎️ F1 Race Intelligence Dashboard
-Data analysis and visualization of Formula 1 race performance using Python and data analytics.
+Data-driven analysis and visualization of Formula 1 race performance using **Python, Pandas, and advanced data visualization techniques**.
 
 ---
 
 ## 🔬 Currently Building
 
 🧠 **AI Crime Network Analysis**  
-An AI-powered system for analyzing criminal networks using graph-based intelligence.
+AI-powered system for analyzing criminal networks using graph-based intelligence.
 
 📊 **Machine Learning Data Science Portfolio**  
 A collection of ML and data science projects solving real-world problems.
@@ -68,6 +74,8 @@ A collection of ML and data science projects solving real-world problems.
 <img src="https://github-readme-stats.vercel.app/api?username=akashcodes23&show_icons=true&theme=tokyonight" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
+---
 
 ## 🔥 GitHub Streak
 
@@ -84,4 +92,4 @@ GitHub: https://github.com/akashcodes23
 
 ---
 
-⭐ *Exploring data, building intelligent systems, and growing as an AI engineer.
+⭐ *Exploring data, building intelligent systems, and growing as an AI engineer.*
