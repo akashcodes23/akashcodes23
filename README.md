@@ -64,7 +64,7 @@ Git • GitHub • Jupyter Notebook • VS Code
 ### 🏎️ F1 Race Intelligence Dashboard
 Data-driven analysis and visualization of Formula 1 race performance.
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=f1-race-intelligence-dashboard&theme=tokyonight)
+![F1 Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=f1-race-intelligence&theme=tokyonight)
 
 ---
 
@@ -82,9 +82,9 @@ More projects coming soon as I continue building ML systems and AI tools.
 
 ## 📊 GitHub Analytics
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashcodes23&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashcodes23&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight)
 
 ---
 
