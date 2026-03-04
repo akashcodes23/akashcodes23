@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akash G Patil</h1>
-<h3 align="center">AI & Machine Learning Engineer | Data Science Enthusiast</h3>
+<h1 align="center">Hi there👋, I'm Akash G Patil</h1>
+<h3 align="center">Artificial Intelligence & Machine Learning Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
 Building intelligent systems using Machine Learning, Data Science and Artificial Intelligence.
