@@ -119,4 +119,4 @@ https://github.com/akashcodes23
 
 ---
 
-Building intelligent systems using Machine Learning, Data Science, and AI to solve real-world problems.
+Passionate about building AI systems that transform real-world data into intelligent decision-making tools.
