@@ -86,7 +86,7 @@ ___
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/akashgpatil  
+LinkedIn: [https://linkedin.com/in/akashgpatil](https://www.linkedin.com/in/akash-g-patil-9b55632a5 )  
 GitHub: https://github.com/akashcodes23  
 
 ---
