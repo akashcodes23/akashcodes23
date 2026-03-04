@@ -107,7 +107,7 @@ More projects coming soon as I continue building ML systems and AI tools.
 ## 🌐 Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/akashgpatil  
+www.linkedin.com/in/akash-g-patil-9b55632a5 
 
 GitHub  
 https://github.com/akashcodes23
