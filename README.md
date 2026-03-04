@@ -61,10 +61,10 @@ Git • GitHub • Jupyter Notebook • VS Code
 
 ## 🚀 Featured Projects
 
-### 🏎️ F1 Race Intelligence Dashboard
-Data-driven analysis and visualization of Formula 1 race performance.
+### 🏎️ F1 Race Intelligence Platform
+AI-powered motorsport analytics and strategic performance engine built using Python and data science tools.
 
-![F1 Repo](https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=f1-race-intelligence&theme=tokyonight)
+![F1 Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=F1-Race-Intelligence&theme=tokyonight)
 
 ---
 
