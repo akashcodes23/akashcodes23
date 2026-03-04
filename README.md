@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Patil</h1>
+<h1 align="center">Hi 👋, I'm Akash G Patil</h1>
 <h3 align="center">AI & Machine Learning Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
