@@ -82,11 +82,15 @@ More projects coming soon as I continue building ML systems and AI tools.
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashcodes23&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akashcodes23&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=tokyonight)
 
 ---
+
+## 📈 Activity Graph
+
+![Akash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashcodes23&theme=tokyo-night)
 
 ## 🔥 Contribution Streak
 
