@@ -61,21 +61,10 @@ Git • GitHub • Jupyter Notebook • VS Code
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🏎️ F1 Race Intelligence Dashboard
+Data-driven analysis and visualization of Formula 1 race performance.
 
-<a href="https://github.com/akashcodes23/f1-race-intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=f1-race-intelligence&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/akashcodes23/ai-crime-network-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=ai-crime-network-analysis&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/akashcodes23/ml-data-science-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=ml-data-science-portfolio&theme=tokyonight"/>
-</a>
-
-</p>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=akashcodes23&repo=f1-race-intelligence-dashboard&theme=tokyonight)
 
 ---
 
