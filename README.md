@@ -21,7 +21,7 @@
 <div align="center">
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  FROM RAW DATA → INTELLIGENT DECISIONS → PRODUCTION AI  ║
+║  FROM RAW DATA → INTELLIGENT DECISIONS → PRODUCTION AI   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -78,8 +78,6 @@ quantifies, and scores hallucinations in real-time.
 🎯 Target: Elsevier / Frontiers in AI · 2025
 
 `PyTorch` `HuggingFace` `FastAPI` `RAG` `NLP`
-
-*With: Chirag O · Darshan A · Keerthan B M*
 
 </td>
 <td width="50%" valign="top">
