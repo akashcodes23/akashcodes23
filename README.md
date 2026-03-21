@@ -19,6 +19,7 @@
 ---
 
 <div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  FROM RAW DATA → INTELLIGENT DECISIONS → PRODUCTION AI   ║
@@ -66,6 +67,7 @@ print("I engineer complete AI systems — from research to production.")
 The problem: LLMs hallucinate. Confidently. Dangerously.
 The solution: A three-pillar hybrid architecture that detects,
 quantifies, and scores hallucinations in real-time.
+
 ```
 01 → Retrieval-based fact verification
 02 → Model-intrinsic confidence scoring  
@@ -166,12 +168,15 @@ Full Docker deployment
 ## 📊 The Numbers
 
 <div align="center">
-```
-┌─────────────────┬──────────────────┬──────────────────┬──────────────────┐
-│   CGPA 9.15     │  8+ Hackathons   │  2 Live Systems  │  94% ML Accuracy │
-│  Top of class   │  Multiple wins   │  Real deployments│  HalluciSense    │
-└─────────────────┴──────────────────┴──────────────────┴──────────────────┘
-```
+
+| Metric | Value | Context |
+|---|---|---|
+| 🎓 CGPA | **9.15** | Top of class · JSSATE Bengaluru |
+| 🏆 Hackathons | **8+** | Multiple wins · Build for Bengaluru 2.0 |
+| 🚀 Live Systems | **2** | GreenWave AI + Portfolio |
+| 🧠 ML Accuracy | **94%** | HalluciSense detection |
+| 📚 10th Grade | **95.8%** | Kendriya Vidyalaya · CBSE |
+| 📚 12th Grade | **92.5%** | Alva's · PCMB |
 
 </div>
 
@@ -236,11 +241,8 @@ Awwwards-level interactions · Built in 1 day · Shipped to production
 
 ## 📫 Let's Build Something Real
 
-<div align="center">
-```
 I'm actively looking for AI/ML internships, research collaborations,
 and opportunities to build systems where accuracy genuinely matters.
-```
 
 | Channel | Link |
 |---|---|
