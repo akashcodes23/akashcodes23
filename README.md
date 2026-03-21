@@ -18,7 +18,7 @@
 
 ---
 
-    <div align="center">
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -26,7 +26,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-**3rd Year B.Tech AI/ML · JSSATE Bengaluru · CGPA 9.15 · 8+ Hackathons · 2 Deployed Systems**
+**3rd Year B.Tech AI/ML · JSSATE Bengaluru · CGPA 9.15 · 8+ Hackathons · 5 Deployed Systems**
 
 </div>
 
