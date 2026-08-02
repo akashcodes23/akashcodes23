@@ -26,7 +26,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-**3rd Year B.Tech AI/ML · JSSATE Bengaluru · CGPA 9.15 · 8+ Hackathons · 5 Deployed Systems**
+**Final Year B.Tech AI/ML · JSSATE Bengaluru · CGPA 9.23 · 8+ Hackathons · 5 Deployed Systems**
 
 </div>
 
@@ -39,7 +39,7 @@ akash_g_patil = {
     "researching" : "HalluciSense — LLM Hallucination Detection",
     "target"      : "Elsevier / Frontiers in AI Publication · 2025",
     "deployed"    : "GreenWave AI → greenwave-ai.vercel.app",
-    "cgpa"        : 9.15,
+    "cgpa"        : 9.23,
     "hackathons"  : "8+ competitions · multiple wins",
     "available"   : True,  # Open to internships & research
     "location"    : "Bengaluru, Karnataka, India",
@@ -171,7 +171,7 @@ Full Docker deployment
 
 | Metric | Value | Context |
 |---|---|---|
-| 🎓 CGPA | **9.15** | Top of class · JSSATE Bengaluru |
+| 🎓 CGPA | **9.23** | Top of class · JSSATE Bengaluru |
 | 🏆 Hackathons | **8+** | Multiple wins · Build for Bengaluru 2.0 |
 | 🚀 Live Systems | **2** | GreenWave AI + Portfolio |
 | 🧠 ML Accuracy | **94%** | HalluciSense detection |
@@ -186,7 +186,7 @@ Full Docker deployment
 ```
 2021 ── 10th · CBSE   ████████████████████  95.8%  Kendriya Vidyalaya
 2023 ── 12th · PCMB   ██████████████████░░  92.5%  Alva's · Moodabidri  
-2023 ── B.Tech AI/ML  ██████████████████░░   9.15  JSSATE Bengaluru
+2023 ── B.Tech AI/ML  ██████████████████░░   9.23  JSSATE Bengaluru
          └── Specialization: Artificial Intelligence & Machine Learning
 ```
 
