@@ -1,298 +1,244 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030303,50:101010,100:FF6B2C&height=260&text=AKASH.OS&fontSize=85&fontColor=FF6B2C&fontAlignY=43&desc=INTELLIGENCE%20SYSTEMS%20%2F%20ENGINEERING&descSize=15&descAlignY=70&descColor=FFFFFF" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=FF6B2C&center=true&vCenter=true&width=650&height=35&lines=%3E+INITIALIZING+AKASH.OS...;%3E+LOADING+RESEARCH+MODULES...;%3E+SYSTEM+ONLINE." alt="Boot sequence"/>
-
-<br/>
-
-`[ AI RESEARCH ]` &nbsp; ` [ SYSTEMS ENGINEERING ]` &nbsp; ` [ APPLIED INTELLIGENCE ]`
-
-</div>
-
----
-
-<div align="center">
-
-### SYSTEM MANIFEST
-
-</div>
-
-```text
-IDENTITY       AKASH G PATIL
-DESIGNATION    AI/ML ENGINEER  ·  RESEARCHER
-AFFILIATION    CAIR / DRDO / GIS DIVISION
-EDUCATION      B.Tech Artificial Intelligence & ML
-INSTITUTE      JSSATE Bengaluru
-ACADEMIC       9.23 CGPA
-GRADUATION     2027
-
-MISSION         Build intelligent systems.
-               Understand their failure modes.
-               Engineer them for real-world use.
-
-CURRENT MODE   RESEARCH + ENGINEERING
-```
-
-> I don't just build models. I investigate how intelligent systems behave, where they fail, and how to engineer them into reliable applications.
-
----
-
-<div align="center">
-
-## 01 / RESEARCH LAB
-
-`EXPERIMENTAL SYSTEMS · ACTIVE DEVELOPMENT`
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/MODULE_01-HALLUCISENSE-FF6B2C?style=flat-square&labelColor=090909"/>
-
-### HalluciSense
-
-`LLM RELIABILITY`
-
-```text
-INPUT
-  ↓
-RETRIEVAL VERIFICATION
-  ↓
-CONFIDENCE ANALYSIS
-  ↓
-CROSS-CONSISTENCY
-  ↓
-HALLUCINATION SEVERITY
-```
-
-A hybrid framework exploring how retrieval, confidence signals, and consistency checks can help detect and quantify LLM hallucinations.
-
-[→ EXPLORE SOURCE](https://github.com/akashcodes23/HalluciSense)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/MODULE_02-GEOSENTINEL--AI-FF6B2C?style=flat-square&labelColor=090909"/>
-
-### GeoSentinel-AI
-
-`GEOAI / SPATIAL INTELLIGENCE`
-
-```text
-GEOSPATIAL DATA
-      ↓
-SPATIAL ANALYSIS
-      ↓
-MACHINE LEARNING
-      ↓
-INTELLIGENCE OUTPUT
-```
-
-An independent GeoAI engineering initiative exploring machine learning applications on geographic data.
-
-[→ EXPLORE SOURCE](https://github.com/akashcodes23/GeoSentinel-AI)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 02 / ENGINEERING CORE
-
-`SYSTEMS · ALGORITHMS · REAL-TIME APPLICATIONS`
-
-</div>
-
-<details>
-<summary><b>01 — CRDT EDITOR CORE / DISTRIBUTED SYSTEMS</b></summary>
-
-<br/>
-
-`LOCAL-FIRST · COLLABORATIVE EDITING`
-
-A collaborative editing engine designed around conflict-free replicated data types and Hybrid Logical Clocks.
-
-```text
-LOCAL EDIT
-    ↓
-CRDT OPERATIONS
-    ↓
-CLOCK SYNCHRONIZATION
-    ↓
-REPLICATION
-    ↓
-CONFLICT-FREE MERGE
-```
-
-**Stack:** TypeScript · CRDTs · HLC · Monaco
-
-[→ SOURCE](https://github.com/akashcodes23/crdt-editor-core)
-
-</details>
-
-<details>
-<summary><b>02 — GREENWAVE AI / EMERGENCY MOBILITY</b></summary>
-
-<br/>
-
-`REAL-TIME ROUTING · TRAFFIC INTELLIGENCE`
-
-Emergency mobility prototype built at Build for Bengaluru 2.0.
-
-```text
-ROAD NETWORK
-     ↓
-TRAFFIC WEIGHTS
-     ↓
-DIJKSTRA ROUTING
-     ↓
-REAL-TIME COORDINATION
-     ↓
-EMERGENCY ROUTE
-```
-
-**Stack:** Next.js · Node.js · WebSockets
-
-[→ LIVE SYSTEM](https://greenwave-ai.vercel.app/)  
-[→ SOURCE](https://github.com/akashcodes23/green-wave)
-
-</details>
-
-<details>
-<summary><b>03 — AEGIS-ML / ANOMALY INTELLIGENCE</b></summary>
-
-<br/>
-
-`BEHAVIORAL ANALYSIS · ML SECURITY`
-
-Machine learning-based threat detection combining supervised classification, anomaly detection, behavioral profiling, and graph-based incident correlation.
-
-**Stack:** Python · scikit-learn · React
-
-[→ SOURCE](https://github.com/akashcodes23/AEGIS-ML)
-
-</details>
-
----
-
-<div align="center">
-
-## 03 / APPLICATION LAYER
-
-`AI APPLICATIONS · COMPUTER VISION · DATA INTELLIGENCE`
-
-</div>
-
-| SYSTEM | CAPABILITY | TECHNOLOGY |
-|---|---|---|
-| **F1 Race Intelligence** | Race telemetry analytics & strategy exploration | FastF1 · Streamlit |
-| **KrishiRakshak** | CNN-based crop disease classification | TensorFlow · CNN |
-| **RecruitGenie** | Multi-agent resume analysis | LLMs · FastAPI |
-| **Building Silence** | Real-time sign language recognition | MediaPipe · LSTM · OpenCV |
-
-<sub>Source repositories:</sub>
-
-- [F1 Race Intelligence](https://github.com/akashcodes23/F1-Race-Intelligence)
-- [KrishiRakshak](https://github.com/akashcodes23/crop-disease-app)
-- [Sign Language Detection](https://github.com/akashcodes23/Realtime-Sign-LanguageDetection)
-
----
-
-<div align="center">
-
-## 04 / TECHNOLOGY MATRIX
-
-</div>
-
-```text
-ARTIFICIAL INTELLIGENCE
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-├── LLM Applications
-└── Retrieval-Augmented Generation
-
-ENGINEERING
-├── Python / TypeScript / JavaScript
-├── FastAPI / Next.js / React
-├── Docker / Git / Linux
-└── REST APIs / WebSockets
-
-DATA & INFRASTRUCTURE
-├── NumPy / Pandas
-├── PostgreSQL
-├── Streamlit
-└── GitHub Actions
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,linux,ts,react,nextjs,postgres&theme=dark" alt="Technology stack"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 05 / SYSTEM TELEMETRY
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashcodes23&theme=github_dark" width="100%" alt="GitHub profile telemetry"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashcodes23&theme=github_dark" width="49%" alt="GitHub statistics"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashcodes23&theme=github_dark" width="49%" alt="Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 06 / RECOGNITION
-
-```text
-RESEARCH        CAIR · DRDO
-COMPETITIONS    8+ HACKATHONS
-HIGHLIGHTS      BUILD FOR BENGALURU 2.0
-                SMART INDIA HACKATHON 2025
-ACADEMICS       9.23 CGPA
-```
-
-</div>
-
----
-
-<div align="center">
-
-## CONNECTION ESTABLISHED
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&color=FF6B2C&center=true&vCenter=true&width=550&height=30&lines=Have+an+interesting+problem%3F+Let's+engineer+it." alt="Connection message"/>
-
-<br/>
-
-<a href="https://akashgpatil.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF6B2C?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/akash-g-patil">
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-<a href="mailto:akashgpatil23.05@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF6B2C?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<sub>AKASH.OS · BUILT TO INVESTIGATE · ENGINEERED TO EXECUTE</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B2C,100:030303&height=100&section=footer" width="100%"/>
-
-</div>
+\<div align="center">\
+\
+\<img src="https\://capsule-render.vercel.app/api?type=waving&color=0:050505,55:180900,100:FF6B2C&height=240&section=header&text=AKASH%20G%20PATIL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20RESEARCH%20%7C%20SYSTEMS&descAlignY=60&descSize=17&descColor=FFB58C" width="100%" alt="Akash G Patil"/>\
+\
+\<a href="https\://github.com/akashcodes23">\
+&#x20; \<img src="https\://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=FF6B2C&center=true&vCenter=true&width=720&height=36&lines=Research+%E2%86%92+Engineer+%E2%86%92+Validate+%E2%86%92+Deploy;LLM+reliability+%C2%B7+GeoAI+%C2%B7+distributed+systems" alt="tagline"/>\
+\</a>\
+\
+\<br/>\
+\
+\<a href="https\://akashgpatil.vercel.app">\<img src="https\://img.shields.io/badge/PORTFOLIO-FF6B2C?style=for-the-badge&logo=vercel&logoColor=white"/>\</a>\
+\<a href="https\://akashgpatil.vercel.app/resume.pdf">\<img src="https\://img.shields.io/badge/RESUME-4A9EFF?style=for-the-badge&logo=readthedocs&logoColor=white"/>\</a>\
+\<a href="https\://www\.linkedin.com/in/akash-g-patil">\<img src="https\://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>\</a>\
+\<a href="mailto:akashgpatil23.05@gmail.com">\<img src="https\://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>\</a>\
+\
+\</div>\
+\
+\---\
+\
+\## / ABOUT\
+\
+Research Intern @ \*\*CAIR, DRDO (GIS Division)\*\*\
+B.Tech AI & ML @ \*\*JSSATE Bengaluru\*\* · CGPA \*\*9.23\*\*\
+\
+I work at the intersection of \*\*AI research and software engineering\*\*.\
+\
+From investigating LLM reliability and geospatial intelligence to building distributed systems and deploying ML applications, I enjoy turning complex ideas into working systems.\
+\
+\*\*Research → Engineer → Validate → Deploy\*\*\
+\
+🟢 Open to AI/ML internships, full-time roles and research collaborations.\
+\
+\<div align="center">\
+\
+\<img src="https\://img.shields.io/badge/CGPA-9.23-FF6B2C?style=for-the-badge&labelColor=0d1117"/>\
+\<img src="https\://img.shields.io/badge/HACKATHONS-8%2B-FF6B2C?style=for-the-badge&labelColor=0d1117"/>\
+\<img src="https\://img.shields.io/badge/RESEARCH-CAIR%20·%20DRDO-FF6B2C?style=for-the-badge&labelColor=0d1117"/>\
+\<img src="https\://img.shields.io/badge/FOCUS-LLM%20RELIABILITY%20·%20GeoAI-FF6B2C?style=for-the-badge&labelColor=0d1117"/>\
+\
+\</div>\
+\
+\<sub>Project labels: ![LIVE]\(https\://img.shields.io/badge/LIVE-2EA043?style=flat-square) deployed and accessible · ![SOURCE]\(https\://img.shields.io/badge/SOURCE-6E7681?style=flat-square) repository available, no public deployment · ![RESEARCH]\(https\://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square) research or experimental work\</sub>\
+\
+\---\
+\
+\## / CURRENTLY RESEARCHING\
+\
+\<table>\
+\<tr>\
+\<td width="50%" valign="top">\
+\
+![RESEARCH]\(https\://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square)\
+\
+\### 🔬 HalluciSense\
+\*\*Problem:\*\* LLMs state false things with confidence.\
+\*\*Approach:\*\* a hybrid detector combining retrieval-based verification, model confidence and cross-consistency checks, producing a unified hallucination severity score for evaluation.\
+\
+\`PyTorch\` \`HuggingFace\` \`RAG\` \`FastAPI\`\
+\
+[📂 Source]\(https\://github.com/akashcodes23/HalluciSense)\
+\
+\</td>\
+\<td width="50%" valign="top">\
+\
+![RESEARCH]\(https\://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square)\
+\
+\### 🌍 GeoSentinel-AI\
+\*\*Focus:\*\* AI for geospatial intelligence.\
+\*\*Approach:\*\* a public, personal project exploring machine learning on geographic data.\
+\
+\`GIS\` \`Python\` \`AI/ML\`\
+\
+[📂 Source]\(https\://github.com/akashcodes23/GeoSentinel-AI)\
+\
+\</td>\
+\</tr>\
+\</table>\
+\
+\---\
+\
+\## / FEATURED ENGINEERING\
+\
+\<table>\
+\<tr>\
+\<td width="50%" valign="top">\
+\
+![SOURCE]\(https\://img.shields.io/badge/SOURCE-6E7681?style=flat-square)\
+\
+\### 🧩 crdt-editor-core\
+\*\*Problem:\*\* collaborative editors break when users go offline or edit at the same time.\
+\*\*Approach:\*\* a local-first editing engine using \*\*CRDTs\*\* and \*\*Hybrid Logical Clocks\*\* with the Monaco editor, so concurrent edits merge without a central lock.\
+\
+\`TypeScript\` \`CRDT\` \`HLC\` \`Monaco\`\
+\
+[📂 Source]\(https\://github.com/akashcodes23/crdt-editor-core)\
+\
+\</td>\
+\<td width="50%" valign="top">\
+\
+![LIVE]\(https\://img.shields.io/badge/LIVE-2EA043?style=flat-square)\
+\
+\### 🚦 GreenWave AI\
+\*\*Problem:\*\* ambulances lose minutes at red lights in Bengaluru traffic.\
+\*\*Approach:\*\* traffic-weighted Dijkstra routing plus real-time signal coordination over WebSockets. Built in 24 hours at \*\*Build for Bengaluru 2.0\*\*.\
+\
+\`Next.js\` \`Node.js\` \`WebSockets\`\
+\
+[🟢 Live]\(https\://greenwave-ai.vercel.app) · [📂 Source]\(https\://github.com/akashcodes23/green-wave)\
+\
+\</td>\
+\</tr>\
+\</table>\
+\
+\---\
+\
+\## / APPLICATIONS\
+\
+\<table>\
+\<tr>\
+\<td width="50%" valign="top">\
+\
+![SOURCE]\(https\://img.shields.io/badge/SOURCE-6E7681?style=flat-square)\
+\<!-- When deployed, swap the badge above for the LIVE one and add the Live link below. -->\
+\
+\### 🏎️ F1 Race Intelligence\
+\*\*Problem:\*\* race strategy means reading a lot of telemetry fast.\
+\*\*Approach:\*\* FastF1-powered analytics and Streamlit dashboards that simulate race-engineering decisions.\
+\
+\`Python\` \`FastF1\` \`Streamlit\`\
+\
+[📂 Source]\(https\://github.com/akashcodes23/F1-Race-Intelligence)\
+\<!-- Add: · [🟢 Live]\(YOUR-STREAMLIT-URL) -->\
+\
+\</td>\
+\<td width="50%" valign="top">\
+\
+![SOURCE]\(https\://img.shields.io/badge/SOURCE-6E7681?style=flat-square)\
+\
+\### 🌱 KrishiRakshak\
+\*\*Problem:\*\* crop diseases are often caught too late.\
+\*\*Approach:\*\* CNN-based image classification of plant diseases to support precision-agriculture decisions.\
+\
+\`Python\` \`CNN\` \`TensorFlow\`\
+\
+[📂 Source]\(https\://github.com/akashcodes23/crop-disease-app)\
+\<!-- Add: · [🟢 Live]\(YOUR-LIVE-URL) -->\
+\
+\</td>\
+\</tr>\
+\<tr>\
+\<td width="50%" valign="top">\
+\
+![SOURCE]\(https\://img.shields.io/badge/SOURCE-6E7681?style=flat-square)\
+\
+\### 🧠 RecruitGenie\
+\*\*Problem:\*\* reviewing resumes consistently is slow.\
+\*\*Approach:\*\* a multi-agent LLM workflow that analyzes resumes and generates structured career insights through a FastAPI backend.\
+\
+\`Python\` \`FastAPI\` \`LLMs\`\
+\
+\<!-- Add: [📂 Source]\(https\://github.com/akashcodes23/YOUR-REPO) · [🟢 Live]\(YOUR-LIVE-URL) -->\
+\
+\</td>\
+\<td width="50%" valign="top">\
+\
+![SOURCE]\(https\://img.shields.io/badge/SOURCE-6E7681?style=flat-square)\
+\
+\### ✋ Sign Language Detection\
+\*\*Approach:\*\* MediaPipe Holistic landmarks fed to an LSTM for sequence-based gesture classification with live webcam inference.\
+\
+\`MediaPipe\` \`LSTM\` \`OpenCV\`\
+\
+[📂 Source]\(https\://github.com/akashcodes23/Realtime-Sign-LanguageDetection)\
+\
+\</td>\
+\</tr>\
+\<tr>\
+\<td colspan="2" valign="top">\
+\
+![SOURCE]\(https\://img.shields.io/badge/SOURCE-6E7681?style=flat-square)\
+\
+\### 🛡️ AEGIS-ML\
+\*\*Approach:\*\* Random Forest and Isolation Forest threat detection with behavioral profiling and graph-based incident correlation.\
+\
+\`scikit-learn\` \`Python\` \`React\`\
+\
+[📂 Source]\(https\://github.com/akashcodes23/AEGIS-ML)\
+\
+\</td>\
+\</tr>\
+\</table>\
+\
+\---\
+\
+\## / TECH STACK\
+\
+\<div align="center">\
+\
+\<img src="https\://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,linux,js,ts,react,nextjs,postgres&theme=dark"/>\
+\
+\<br/>\<br/>\
+\
+\`NumPy\` · \`Pandas\` · \`Hugging Face\` · \`FAISS\` · \`Streamlit\` · \`Jupyter\` · \`GitHub Actions\`\
+\
+\</div>\
+\
+Deployed with \*\*Vercel\*\* (web apps), \*\*Render\*\* (backend APIs), \*\*Streamlit\*\* (ML dashboards) and \*\*Docker\*\* (reproducible environments).\
+\
+\---\
+\
+\## / RECOGNITION & ACADEMICS\
+\
+\- 🔬 Research Intern, \*\*CAIR, DRDO\*\*\
+\- 🏆 8+ hackathons · \*\*Build for Bengaluru 2.0\*\* · \*\*Smart India Hackathon 2025\*\*\
+\- 🎓 B.Tech AI & ML, JSSATE Bengaluru · CGPA \*\*9.23\*\*\
+\
+\---\
+\
+\## / GITHUB ACTIVITY\
+\
+\<div align="center">\
+\
+\<img width="49%" src="https\://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashcodes23&theme=github_dark"/>\
+\<img width="49%" src="https\://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashcodes23&theme=github_dark"/>\
+\
+\<img src="https\://raw\.githubusercontent.com/akashcodes23/akashcodes23/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>\
+\
+\</div>\
+\
+\---\
+\
+\<div align="center">\
+\
+\## LET'S BUILD SOMETHING THAT MATTERS.\
+\
+\*\*Open to AI/ML internships · Research collaborations · Engineering roles\*\*\
+\
+\<a href="https\://akashgpatil.vercel.app">Portfolio ↗\</a> &nbsp;·&nbsp;\
+\<a href="https\://www\.linkedin.com/in/akash-g-patil">LinkedIn ↗\</a> &nbsp;·&nbsp;\
+\<a href="mailto:akashgpatil23.05@gmail.com">Email ↗\</a>\
+\
+\<img src="https\://capsule-render.vercel.app/api?type=waving&color=0:FF6B2C,100:050505&height=120&section=footer" width="100%" alt=""/>\
+\
+\</div>\
