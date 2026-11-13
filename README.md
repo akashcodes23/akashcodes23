@@ -1,32 +1,25 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:180900,100:FF6B2C&height=240&section=header&text=AKASH%20G%20PATIL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20RESEARCH%20%7C%20SYSTEMS&descAlignY=60&descSize=17&descColor=FFB58C" width="100%" alt="Akash G Patil"/>
 
-  <a href="https://github.com/akashcodes23">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=FF6B2C&center=true&vCenter=true&width=720&height=36&lines=Research+%E2%86%92+Engineer+%E2%86%92+Validate+%E2%86%92+Deploy;LLM+reliability+%C2%B7+GeoAI+%C2%B7+distributed+systems" alt="Research to engineering tagline"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:180900,100:FF6B2C&height=240&section=header&text=AKASH%20G%20PATIL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20RESEARCH%20%7C%20SYSTEMS&descAlignY=60&descSize=17&descColor=FFB58C" width="100%" alt="Akash G Patil"/>
 
-  <br/>
+<a href="https://github.com/akashcodes23">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=FF6B2C&center=true&vCenter=true&width=720&height=36&lines=Research+%E2%86%92+Engineer+%E2%86%92+Validate+%E2%86%92+Deploy;LLM+reliability+%C2%B7+GeoAI+%C2%B7+distributed+systems" alt="tagline"/>
+</a>
 
-  <a href="https://akashgpatil.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://akashgpatil.vercel.app/resume.pdf">
-    <img src="https://img.shields.io/badge/RESUME-4A9EFF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akash-g-patil">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:akashgpatil23.05@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
-  </a>
+<br/>
+
+<a href="https://akashgpatil.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B2C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://akashgpatil.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/RESUME-4A9EFF?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akash-g-patil"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:akashgpatil23.05@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </div>
 
 ---
 
 ## / ABOUT
 
-Research Intern @ **CAIR, DRDO (GIS Division)**  
+Research Intern @ **CAIR, DRDO (GIS Division)**
 B.Tech AI & ML @ **JSSATE Bengaluru** · CGPA **9.23**
 
 I work at the intersection of **AI research and software engineering**.
@@ -37,10 +30,16 @@ From investigating LLM reliability and geospatial intelligence to building distr
 
 🟢 Open to AI/ML internships, full-time roles and research collaborations.
 
-<sub>
-Project labels:
-🟢 LIVE — deployed and accessible · SOURCE — repository available · RESEARCH — research or experimental work
-</sub>
+<div align="center">
+
+<img src="https://img.shields.io/badge/CGPA-9.23-FF6B2C?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/HACKATHONS-8%2B-FF6B2C?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/RESEARCH-CAIR%20·%20DRDO-FF6B2C?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FOCUS-LLM%20RELIABILITY%20·%20GeoAI-FF6B2C?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+<sub>Project labels: ![LIVE](https://img.shields.io/badge/LIVE-2EA043?style=flat-square) deployed and accessible · ![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square) repository available, no public deployment · ![RESEARCH](https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square) research or experimental work</sub>
 
 ---
 
@@ -50,13 +49,11 @@ Project labels:
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square" alt="Research"/>
+![RESEARCH](https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square)
 
 ### 🔬 HalluciSense
-
-**Problem:** LLMs can confidently generate false information.
-
-**Approach:** A hybrid detector combining retrieval-based verification, model confidence and cross-consistency checks, producing a unified hallucination severity score for evaluation.
+**Problem:** LLMs state false things with confidence.
+**Approach:** a hybrid detector combining retrieval-based verification, model confidence and cross-consistency checks, producing a unified hallucination severity score for evaluation.
 
 `PyTorch` `HuggingFace` `RAG` `FastAPI`
 
@@ -65,13 +62,11 @@ Project labels:
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square" alt="Research"/>
+![RESEARCH](https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square)
 
 ### 🌍 GeoSentinel-AI
-
 **Focus:** AI for geospatial intelligence.
-
-**Approach:** A public, personal project exploring machine learning on geographic data and GeoAI applications.
+**Approach:** a public, personal project exploring machine learning on geographic data.
 
 `GIS` `Python` `AI/ML`
 
@@ -89,13 +84,11 @@ Project labels:
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SOURCE-6E7681?style=flat-square" alt="Source"/>
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
 ### 🧩 crdt-editor-core
-
-**Problem:** Collaborative editors break when users go offline or edit simultaneously.
-
-**Approach:** A local-first editing engine using **CRDTs** and **Hybrid Logical Clocks**, integrated with Monaco, enabling concurrent edits to merge without a central lock.
+**Problem:** collaborative editors break when users go offline or edit at the same time.
+**Approach:** a local-first editing engine using **CRDTs** and **Hybrid Logical Clocks** with the Monaco editor, so concurrent edits merge without a central lock.
 
 `TypeScript` `CRDT` `HLC` `Monaco`
 
@@ -104,17 +97,15 @@ Project labels:
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/LIVE-2EA043?style=flat-square" alt="Live"/>
+![LIVE](https://img.shields.io/badge/LIVE-2EA043?style=flat-square)
 
 ### 🚦 GreenWave AI
-
-**Problem:** Ambulances lose critical minutes at red lights in Bengaluru traffic.
-
-**Approach:** Traffic-weighted Dijkstra routing plus real-time signal coordination over WebSockets. Built in 24 hours at **Build for Bengaluru 2.0**.
+**Problem:** ambulances lose minutes at red lights in Bengaluru traffic.
+**Approach:** traffic-weighted Dijkstra routing plus real-time signal coordination over WebSockets. Built in 24 hours at **Build for Bengaluru 2.0**.
 
 `Next.js` `Node.js` `WebSockets`
 
-[🟢 Live](https://greenwave-ai.vercel.app/) · [📂 Source](https://github.com/akashcodes23/green-wave)
+[🟢 Live](https://greenwave-ai.vercel.app) · [📂 Source](https://github.com/akashcodes23/green-wave)
 
 </td>
 </tr>
@@ -128,58 +119,54 @@ Project labels:
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SOURCE-6E7681?style=flat-square" alt="Source"/>
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
+<!-- When deployed, swap the badge above for the LIVE one and add the Live link below. -->
 
 ### 🏎️ F1 Race Intelligence
-
-**Problem:** Race strategy requires interpreting large volumes of telemetry quickly.
-
-**Approach:** FastF1-powered analytics and Streamlit dashboards for exploring race data and simulating race-engineering decisions.
+**Problem:** race strategy means reading a lot of telemetry fast.
+**Approach:** FastF1-powered analytics and Streamlit dashboards that simulate race-engineering decisions.
 
 `Python` `FastF1` `Streamlit`
 
 [📂 Source](https://github.com/akashcodes23/F1-Race-Intelligence)
+<!-- Add: · [🟢 Live](YOUR-STREAMLIT-URL) -->
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SOURCE-6E7681?style=flat-square" alt="Source"/>
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
 ### 🌱 KrishiRakshak
-
-**Problem:** Crop diseases are often detected too late.
-
-**Approach:** CNN-based plant disease image classification to support precision-agriculture decisions.
+**Problem:** crop diseases are often caught too late.
+**Approach:** CNN-based image classification of plant diseases to support precision-agriculture decisions.
 
 `Python` `CNN` `TensorFlow`
 
 [📂 Source](https://github.com/akashcodes23/crop-disease-app)
+<!-- Add: · [🟢 Live](YOUR-LIVE-URL) -->
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SOURCE-6E7681?style=flat-square" alt="Source"/>
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
 ### 🧠 RecruitGenie
-
-**Problem:** Reviewing resumes consistently is time-consuming.
-
-**Approach:** A multi-agent LLM workflow that analyzes resumes and generates structured career insights through a FastAPI backend.
+**Problem:** reviewing resumes consistently is slow.
+**Approach:** a multi-agent LLM workflow that analyzes resumes and generates structured career insights through a FastAPI backend.
 
 `Python` `FastAPI` `LLMs`
 
-<!-- Add repository and deployment links when available. -->
+<!-- Add: [📂 Source](https://github.com/akashcodes23/YOUR-REPO) · [🟢 Live](YOUR-LIVE-URL) -->
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SOURCE-6E7681?style=flat-square" alt="Source"/>
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
 ### ✋ Sign Language Detection
-
-**Approach:** MediaPipe Holistic landmarks fed into an LSTM for sequence-based gesture classification with live webcam inference.
+**Approach:** MediaPipe Holistic landmarks fed to an LSTM for sequence-based gesture classification with live webcam inference.
 
 `MediaPipe` `LSTM` `OpenCV`
 
@@ -190,10 +177,9 @@ Project labels:
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://img.shields.io/badge/SOURCE-6E7681?style=flat-square" alt="Source"/>
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
 ### 🛡️ AEGIS-ML
-
 **Approach:** Random Forest and Isolation Forest threat detection with behavioral profiling and graph-based incident correlation.
 
 `scikit-learn` `Python` `React`
@@ -210,7 +196,7 @@ Project labels:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,linux,js,ts,react,nextjs,postgres&theme=dark" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,linux,js,ts,react,nextjs,postgres&theme=dark"/>
 
 <br/><br/>
 
@@ -234,11 +220,10 @@ Deployed with **Vercel** (web apps), **Render** (backend APIs), **Streamlit** (M
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashcodes23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B2C&icon_color=FF6B2C&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashcodes23&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashcodes23&theme=github_dark"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashcodes23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B2C" alt="Top languages"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashcodes23&theme=github-dark&hide_border=true&area=true&color=FF6B2C&line=FF6B2C&point=FFFFFF" alt="GitHub contribution activity"/>
+<img src="https://raw.githubusercontent.com/akashcodes23/akashcodes23/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
@@ -250,11 +235,10 @@ Deployed with **Vercel** (web apps), **Render** (backend APIs), **Streamlit** (M
 
 **Open to AI/ML internships · Research collaborations · Engineering roles**
 
-<a href="https://akashgpatil.vercel.app">Portfolio ↗</a> ·
-<a href="https://www.linkedin.com/in/akash-g-patil">LinkedIn ↗</a> ·
+<a href="https://akashgpatil.vercel.app">Portfolio ↗</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/akash-g-patil">LinkedIn ↗</a> &nbsp;·&nbsp;
 <a href="mailto:akashgpatil23.05@gmail.com">Email ↗</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B2C,100:050505&height=120&section=footer" width="100%" alt=""/>
 
 </div>
-
