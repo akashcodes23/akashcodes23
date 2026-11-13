@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:180900,100:FF6B2C&height=240&section=header&text=AKASH%20G%20PATIL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20RESEARCH%20%7C%20ENGINEERING&descAlignY=60&descSize=17&descColor=FFB58C" width="100%" alt="Akash G Patil"/>
-
-### Building intelligent systems that work beyond the notebook.
-
-AI/ML Engineer · Research Intern @ CAIR, DRDO · Bengaluru, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:180900,100:FF6B2C&height=240&section=header&text=AKASH%20G%20PATIL&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20RESEARCH%20%7C%20SYSTEMS&descAlignY=60&descSize=17&descColor=FFB58C" width="100%" alt="Akash G Patil"/>
 
 <a href="https://github.com/akashcodes23">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=FF6B2C&center=true&vCenter=true&width=700&height=36&lines=Build+it.+Validate+it.+Deploy+it.;LLM+reliability+%C2%B7+GeoAI+%C2%B7+real-time+ML;Research+%E2%86%92+APIs+%E2%86%92+live+deployments" alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=FF6B2C&center=true&vCenter=true&width=720&height=36&lines=Research+%E2%86%92+Engineer+%E2%86%92+Validate+%E2%86%92+Deploy;LLM+reliability+%C2%B7+GeoAI+%C2%B7+distributed+systems" alt="tagline"/>
 </a>
 
 <br/>
@@ -21,32 +17,34 @@ AI/ML Engineer · Research Intern @ CAIR, DRDO · Bengaluru, India
 
 ---
 
-## / WHO I AM
+## / ABOUT
 
-```python
-class AkashPatil:
-    focus      = ["Machine Learning", "AI Systems", "Research"]
-    currently  = "Research Intern @ CAIR, DRDO (GIS Division)"
-    interests  = ["Reliable AI & LLM evaluation", "Computer vision",
-                  "GeoAI & intelligent systems", "ML engineering & deployment"]
-    philosophy = "Build it. Validate it. Deploy it."
-    status     = "Open to AI/ML internships, full-time roles & research"
-```
+Research Intern @ **CAIR, DRDO (GIS Division)**
+B.Tech AI & ML @ **JSSATE Bengaluru** · CGPA **9.23**
 
-Final-year **B.Tech (AI & ML)** student at **JSSATE Bengaluru** (CGPA **9.23**) and Research Intern at the **Centre for Artificial Intelligence and Robotics (CAIR), DRDO**. I like the space where research meets software engineering: systems that don't just demo intelligence, but solve a real problem and are live on the internet.
+I work at the intersection of **AI research and software engineering**.
+
+From investigating LLM reliability and geospatial intelligence to building distributed systems and deploying ML applications, I enjoy turning complex ideas into working systems.
+
+**Research → Engineer → Validate → Deploy**
+
+🟢 Open to AI/ML internships, full-time roles and research collaborations.
+
+<sub>Project labels: ![LIVE](https://img.shields.io/badge/LIVE-2EA043?style=flat-square) deployed and accessible · ![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square) repository available, no public deployment · ![RESEARCH](https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square) research or experimental work</sub>
 
 ---
 
-## / CURRENTLY EXPLORING
+## / CURRENTLY RESEARCHING
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 HalluciSense
-**Confidence-aware LLM hallucination detection**
+![RESEARCH](https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square)
 
-Hybrid framework combining retrieval-based verification, model confidence and cross-consistency checks to detect and score hallucinations in LLM output.
+### 🔬 HalluciSense
+**Problem:** LLMs state false things with confidence.
+**Approach:** a hybrid detector combining retrieval-based verification, model confidence and cross-consistency checks, producing a unified hallucination severity score for evaluation.
 
 `PyTorch` `HuggingFace` `RAG` `FastAPI`
 
@@ -55,28 +53,15 @@ Hybrid framework combining retrieval-based verification, model confidence and cr
 </td>
 <td width="50%" valign="top">
 
-### 🌍 GeoAI / GIS Research
-**Intelligent geospatial systems**
+![RESEARCH](https://img.shields.io/badge/RESEARCH-FF6B2C?style=flat-square)
 
-AI-driven geospatial workflows and machine learning for geographic data, through my internship at CAIR, DRDO.
+### 🌍 GeoSentinel-AI
+**Focus:** AI for geospatial intelligence.
+**Approach:** a public, personal project exploring machine learning on geographic data.
 
 `GIS` `Python` `AI/ML`
 
-[📂 GeoSentinel-AI](https://github.com/akashcodes23/GeoSentinel-AI)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🧩 crdt-editor-core
-**Local-first collaborative code editor**
-
-Offline-resilient, multi-user editing built on **Conflict-free Replicated Data Types (CRDTs)** and **Hybrid Logical Clocks**, with the **Monaco** editor, so concurrent edits merge without a central lock.
-
-`TypeScript` `CRDT` `Hybrid Logical Clocks` `Monaco`
-
-[📂 Source](https://github.com/akashcodes23/crdt-editor-core)
+[📂 Source](https://github.com/akashcodes23/GeoSentinel-AI)
 
 </td>
 </tr>
@@ -84,92 +69,117 @@ Offline-resilient, multi-user editing built on **Conflict-free Replicated Data T
 
 ---
 
-## / LIVE PROJECTS
-
-> Built, deployed, and open. Every card has source code; the 🟢 ones you can click and use right now.
+## / FEATURED ENGINEERING
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 GreenWave AI
-**Emergency-vehicle corridor system**
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
-Traffic-aware routing (weighted Dijkstra) plus real-time signal coordination over WebSockets, so ambulances reach hospitals faster. Built in 24 hours at **Build for Bengaluru 2.0**.
+### 🧩 crdt-editor-core
+**Problem:** collaborative editors break when users go offline or edit at the same time.
+**Approach:** a local-first editing engine using **CRDTs** and **Hybrid Logical Clocks** with the Monaco editor, so concurrent edits merge without a central lock.
+
+`TypeScript` `CRDT` `HLC` `Monaco`
+
+[📂 Source](https://github.com/akashcodes23/crdt-editor-core)
+
+</td>
+<td width="50%" valign="top">
+
+![LIVE](https://img.shields.io/badge/LIVE-2EA043?style=flat-square)
+
+### 🚦 GreenWave AI
+**Problem:** ambulances lose minutes at red lights in Bengaluru traffic.
+**Approach:** traffic-weighted Dijkstra routing plus real-time signal coordination over WebSockets. Built in 24 hours at **Build for Bengaluru 2.0**.
 
 `Next.js` `Node.js` `WebSockets`
 
 [🟢 Live](https://greenwave-ai.vercel.app) · [📂 Source](https://github.com/akashcodes23/green-wave)
 
 </td>
-<td width="50%" valign="top">
-
-### 🧠 RecruitGenie
-**AI resume intelligence**
-
-Multi-agent app that analyzes resumes and generates structured career insights, served by a backend API.
-
-`Python` `FastAPI` `LLMs`
-
-[🟢 Live](https://REPLACE-RECRUITGENIE-LIVE-URL) · [📂 Source](https://github.com/akashcodes23/REPLACE-RECRUITGENIE-REPO)
-
-</td>
 </tr>
+</table>
+
+---
+
+## / APPLICATIONS
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏎️ F1 Race Intelligence
-**Race-strategy analytics**
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
+<!-- When deployed, swap the badge above for the LIVE one and add the Live link below. -->
 
-Analytics platform on FastF1 telemetry for driver and race comparisons, statistical analysis and strategy decision support, with interactive dashboards.
+### 🏎️ F1 Race Intelligence
+**Problem:** race strategy means reading a lot of telemetry fast.
+**Approach:** FastF1-powered analytics and Streamlit dashboards that simulate race-engineering decisions.
 
 `Python` `FastF1` `Streamlit`
 
-[🟢 Live](https://REPLACE-F1-STREAMLIT-URL) · [📂 Source](https://github.com/akashcodes23/F1-Race-Intelligence)
+[📂 Source](https://github.com/akashcodes23/F1-Race-Intelligence)
+<!-- Add: · [🟢 Live](YOUR-STREAMLIT-URL) -->
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 KrishiRakshak
-**Crop disease detection**
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
-CNN-based real-time plant disease classification to support precision-agriculture decisions.
+### 🌱 KrishiRakshak
+**Problem:** crop diseases are often caught too late.
+**Approach:** CNN-based image classification of plant diseases to support precision-agriculture decisions.
 
 `Python` `CNN` `TensorFlow`
 
-[🟢 Live](https://REPLACE-KRISHIRAKSHAK-LIVE-URL) · [📂 Source](https://github.com/akashcodes23/crop-disease-app)
+[📂 Source](https://github.com/akashcodes23/crop-disease-app)
+<!-- Add: · [🟢 Live](YOUR-LIVE-URL) -->
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✋ Sign Language Detection
-**Real-time gesture recognition**
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
-MediaPipe Holistic landmarks fed into an LSTM for sequence-based gesture classification with live webcam inference.
+### 🧠 RecruitGenie
+**Problem:** reviewing resumes consistently is slow.
+**Approach:** a multi-agent LLM workflow that analyzes resumes and generates structured career insights through a FastAPI backend.
+
+`Python` `FastAPI` `LLMs`
+
+<!-- Add: [📂 Source](https://github.com/akashcodes23/YOUR-REPO) · [🟢 Live](YOUR-LIVE-URL) -->
+
+</td>
+<td width="50%" valign="top">
+
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
+
+### ✋ Sign Language Detection
+**Approach:** MediaPipe Holistic landmarks fed to an LSTM for sequence-based gesture classification with live webcam inference.
 
 `MediaPipe` `LSTM` `OpenCV`
 
 [📂 Source](https://github.com/akashcodes23/Realtime-Sign-LanguageDetection)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+![SOURCE](https://img.shields.io/badge/SOURCE-6E7681?style=flat-square)
 
 ### 🛡️ AEGIS-ML
-**Network threat detection**
+**Approach:** Random Forest and Isolation Forest threat detection with behavioral profiling and graph-based incident correlation.
 
-Random Forest and Isolation Forest models with behavioral profiling and graph-based incident correlation.
-
-`scikit-learn` `Python` `Graph analysis`
+`scikit-learn` `Python` `React`
 
 [📂 Source](https://github.com/akashcodes23/AEGIS-ML)
 
 </td>
 </tr>
 </table>
-
-<!-- Add new deployed projects as a new <tr> above, same format. -->
 
 ---
 
@@ -185,20 +195,15 @@ Random Forest and Isolation Forest models with behavioral profiling and graph-ba
 
 </div>
 
-| Platform | Used for |
-|---|---|
-| **Vercel** | Web apps and frontends |
-| **Render** | Backend APIs and app hosting |
-| **Streamlit** | ML apps and interactive dashboards |
-| **Docker** | Reproducible environments |
+Deployed with **Vercel** (web apps), **Render** (backend APIs), **Streamlit** (ML dashboards) and **Docker** (reproducible environments).
 
 ---
 
-## / RECOGNITION
+## / RECOGNITION & ACADEMICS
 
 - 🔬 Research Intern, **CAIR, DRDO**
 - 🏆 8+ hackathons · **Build for Bengaluru 2.0** · **Smart India Hackathon 2025**
-- 🎓 CGPA **9.23** at JSSATE Bengaluru
+- 🎓 B.Tech AI & ML, JSSATE Bengaluru · CGPA **9.23**
 
 ---
 
